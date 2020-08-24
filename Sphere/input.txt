@@ -1,0 +1,21 @@
+4
+2 2
+ab
+ba
+3 3
+abc
+def
+ddf
+6 6
+akaccc
+aaacfc
+amdfcc
+aokhdd
+zyxwdp
+zyxwdd
+5 5
+abbbc
+abacc
+aaacc
+aefci
+cdgdd

@@ -1,0 +1,82 @@
+DP INITIAL
+https://codeforces.com/blog/entry/43256
+https://zobayer.blogspot.com/2009/12/cse-102-attacking-recursion.html
+https://github.com/miguelAlessandro/CompetitiveProgramming/blob/master/classes/dynamic_programming_2.md
+https://codeforces.com/blog/entry/21189
+http://www.csie.ntnu.edu.tw/~u91029/DynamicProgramming.html
+https://github.com/racsosabe/DP/blob/master/DP_Handbook.pdf
+Leet [04] - Competitive Programming 3 - Section 3.5			
+Leer [03] - Guide to Competitive Programming - Chapter 6			
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
+
+DP Bitmask
+https://youtu.be/rlTkd4yOQpE
+https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/
+https://codeforces.com/blog/entry/337
+https://youtu.be/BG4vAoV5kWw
+
+DP Trees
+https://codeforces.com/blog/entry/20935
+https://codeforces.com/blog/entry/61572
+https://www.youtube.com/watch?v=U_h3IjreRek
+https://codeforces.com/blog/entry/63257
+Leer [05] - Looking for a Challenge - páginas 30-32 [OPCIONAL]			
+Revisar /clases Miguel Miní/2020-02-22 DP on tress [OPCIONAL]			
+--------------------------------------------------------------
+--------------------------------------------------------------
+temas revisados
+
+[dp on trees](https://codeforces.com/blog/entry/20935)
+
+1. dp subtree
+
+    problema 1. Encontrar un diametro.
+
+2. dp re_root / dp in-out
+
+    problema 1. [Three Paths on a Tree](https://codeforces.com/problemset/problem/1294/F)
+
+    [solucion](https://ideone.com/snbhby)
+
+5. dp para componente conexa
+
+    problema 1. [barricades](https://szkopul.edu.pl/problemset/problem/1sX3vqLjiqkpxBNI-sh8UC2m/site/?key=statement)
+
+        solucion en el looking for a challenge pag. 67
+
+    problema 2. [Factories](https://codeforces.com/gym/102222/problem/G)
+
+    [solucion](https://ideone.com/X7YWqy)
+
+    [contribution method](https://codeforces.com/blog/entry/62690)
+
+    1. binarizar un arbol
+
+    2. dp lca optimization [O(nk)](https://codeforces.com/blog/entry/63257)
+
+problema para practicar:
+
+- [D. Bear and Tree Jumps](https://codeforces.com/contest/791/problem/D)
+
+- [D. Book of Evil](https://codeforces.com/problemset/problem/337/D)
+
+- [B. Appleman and Tree](https://codeforces.com/contest/461/problem/B)
+
+- [counting on tree](https://www.hackerearth.com/challenges/competitive/march-clash-15/algorithm/counting-on-tree-1/description/)
+
+- [tree pruning](https://www.hackerrank.com/challenges/tree-pruning/problem)
+
+- [1039. Anniversary Party](https://acm.timus.ru/problem.aspx?space=1&num=1039)
+
+- [D. Berland Federalization](https://codeforces.com/contest/440/problem/D)
+
+- [problem D pdf]()
+
+    - [solucion](https://ideone.com/CTxYRH)
+
+#### [PROBLEMAS CHINOS PARA LLORAR](https://vjudge.net/contest/298991#rank)
+--------------------------------------------------------------
+--------------------------------------------------------------
+
+Fedwick Tree
+https://codeforces.com/blog/entry/11080

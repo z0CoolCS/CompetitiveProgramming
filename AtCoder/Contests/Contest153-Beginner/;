@@ -1,0 +1,19 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+#define REP(i,a,b) for(int i=a;i<b;i++)
+
+int main(){
+  long long h;
+  cin>>h;
+  long long base=2;
+  long long cont=0;
+  while(base<h){
+    base*=2;
+    cont++;
+  }
+  cout<<h*cont-1<<endl;
+
+  return 0;
+}
